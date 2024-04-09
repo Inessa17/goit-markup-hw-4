@@ -223,6 +223,18 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
+.benefits-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  border: 1px solid rgb(142, 143, 153);
+  border-radius: 4px;
+  background-color: #f4f4fd;
+}
+
 .benefits-list-title {
   font-weight: 500;
   font-size: 20px;
